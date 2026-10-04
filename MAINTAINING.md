@@ -18,3 +18,7 @@ gh repo create nathanmillar16 --public --source=. --remote=origin --push --descr
 ```
 
 If the repository already exists, add its remote and push instead. Do not replace an existing profile without reviewing it first.
+
+## Campaign attribution
+
+Portfolio links use `utm_source=github`, `utm_medium=referral`, and `utm_campaign=profile`. The portfolio passes approved campaign parameters to Google Analytics only after analytics consent. Do not include personal information in campaign tags.
